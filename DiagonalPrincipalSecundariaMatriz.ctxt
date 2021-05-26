@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DiagonalPrincipalSecundariaMatriz
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=Array
+comment2.target=void\ visualizarArray(int[])
+comment3.params=pMatriz
+comment3.target=void\ inicializar(int[][])
+comment4.params=pMatriz
+comment4.target=void\ visualizarMatriz(int[][])
+numComments=5
